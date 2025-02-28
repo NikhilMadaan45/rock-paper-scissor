@@ -1,4 +1,5 @@
-🚀 How to Run the Game?
+🚀 How to Play?
 Open index.html in a browser.
-Open Developer Console (Press F12 or Ctrl+Shift+J in Chrome).
-Follow the prompts to play Rock, Paper, Scissors.
+Click Rock, Paper, or Scissors.
+The score updates until one player reaches 5 points.
+A winner is announced at the end!
